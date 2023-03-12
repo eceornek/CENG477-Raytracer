@@ -7,6 +7,7 @@ Ray tracing is a fundamental rendering algorithm. It is commonly used for animat
 It is enough to run the executable via command “./raytracer scene.xml”. (Example XML scene files can be found in scene_files directory.)
 
 Some of the rendered output images can be seen below:
+
 (Related input XML scene files in scene_files directory)
 
 
